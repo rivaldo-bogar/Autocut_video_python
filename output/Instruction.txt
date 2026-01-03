@@ -1,0 +1,1 @@
+ini adalah folder output hasil video di potong,ketika program lagi running.

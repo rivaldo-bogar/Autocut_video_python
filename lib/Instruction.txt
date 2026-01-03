@@ -1,0 +1,4 @@
+Kenapa saya tidak menyertakan librarynya? Karena size library lumayan besar.
+
+- silahkan download ffmpeg di chrome atau browser anda.
+- pastikan ffmpeg berformat zip,dan di dalamnya ada directory bin yang nantinya akan di tambahkan ke local env
